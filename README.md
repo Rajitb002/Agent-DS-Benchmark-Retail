@@ -9,7 +9,7 @@ Team: 'agi'
 - Challenges 1 and 2 for Retail Sector in the AgentDS Benchmark Challenge held by U Minnesota Twin Cities.
 - We placed 11/19 in retail.
 
-<img width="1583" height="640" alt="image" src="https://github.com/user-attachments/assets/4252bd79-e0d7-4312-8d42-13478df87203" />
+<img width="1559" height="570" alt="image" src="https://github.com/user-attachments/assets/4a5f8cf6-f0e6-47ea-b262-ffea54cb925e" />
 
 ## Problem:
 Combat credit fraud and defaults by using AI agents and time series data (transactions) to predict them in the retail sector.
